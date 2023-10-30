@@ -1,5 +1,3 @@
-first
-1
-one-commit2
+second branch
 
 --- change in first
